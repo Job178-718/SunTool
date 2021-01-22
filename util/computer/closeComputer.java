@@ -1,5 +1,3 @@
-package computerTool;
-
 public class closeComputer{
 
 
