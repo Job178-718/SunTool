@@ -1,5 +1,6 @@
 # SunTool
 + java常用工具
    + Mail的使用
-   
-+ JDK等的配置文件的链接
+   + log4j的使用
+   + mbg(mybatisgenerator)的简单使用
++ 配置文件
